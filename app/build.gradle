@@ -67,7 +67,9 @@ dependencies {
     implementation "androidx.compose.material:material-icons-extended:1.3.0-beta03"
     implementation "androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1"
 
+    // media3 lib - google lib that makes media stuff easier
     implementation 'androidx.media3:media3-exoplayer:1.0.0-beta02'
+    // player view
     implementation 'androidx.media3:media3-ui:1.0.0-beta02'
 
     // Dagger - Hilt

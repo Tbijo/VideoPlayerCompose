@@ -1,8 +1,10 @@
-package com.plcoding.videoplayercompose
+package com.plcoding.videoplayercompose.di
 
 import android.app.Application
 import androidx.media3.common.Player
 import androidx.media3.exoplayer.ExoPlayer
+import com.plcoding.videoplayercompose.data.MetaDataReaderImpl
+import com.plcoding.videoplayercompose.domain.MetaDataReader
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

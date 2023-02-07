@@ -1,4 +1,4 @@
-package com.plcoding.videoplayercompose
+package com.plcoding.videoplayercompose.domain
 
 import android.net.Uri
 import androidx.media3.common.MediaItem
